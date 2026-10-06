@@ -29,13 +29,5 @@
    "date": "2026-10-08T00:00Z"
   }
  },
- "held": [
-  {
-   "channel": "yankees",
-   "click": "https://www.espn.com/mlb/game/_/gameId/401907986/yankees-rays",
-   "message": "Final",
-   "tag": "baseball",
-   "title": "Final: Yankees 2, Rays 5"
-  }
- ]
+ "held": []
 }
