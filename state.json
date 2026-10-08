@@ -41,13 +41,5 @@
    "date": "2026-10-09T00:00Z"
   }
  },
- "held": [
-  {
-   "channel": "yankees",
-   "click": "https://www.espn.com/mlb/game/_/gameId/401907987/rays-yankees",
-   "message": "Final",
-   "tag": "baseball",
-   "title": "Final: Yankees 3, Rays 4"
-  }
- ]
+ "held": []
 }
