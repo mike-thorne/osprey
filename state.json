@@ -1,7 +1,9 @@
 {
  "events": {
   "arsenal:401879268": {
-   "date": "2026-10-10T11:30Z"
+   "date": "2026-10-10T11:30Z",
+   "lineup": true,
+   "start": true
   },
   "giants:401872966": {
    "date": "2026-10-04T17:00Z",
