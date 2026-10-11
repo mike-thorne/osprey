@@ -11,12 +11,12 @@
    ],
    "start": true
   },
-  "giants:401872966": {
-   "date": "2026-10-04T17:00Z",
-   "final": true
-  },
   "giants:401872988": {
    "date": "2026-10-11T17:00Z",
+   "score": [
+    0,
+    6
+   ],
    "start": true
   },
   "knicks:401906508": {
