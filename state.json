@@ -12,9 +12,10 @@
    "start": true
   },
   "giants:401872988": {
+   "close": true,
    "date": "2026-10-11T17:00Z",
    "score": [
-    13,
+    20,
     27
    ],
    "start": true
