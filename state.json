@@ -39,18 +39,10 @@
   "knicks:401914124": {
    "date": "2026-10-12T23:30Z",
    "score": [
-    19,
-    21
+    34,
+    41
    ],
    "start": true
-  },
-  "yankees:401907986": {
-   "date": "2026-10-06T00:00Z",
-   "final": true,
-   "score": [
-    2,
-    5
-   ]
   },
   "yankees:401907987": {
    "close": true,
