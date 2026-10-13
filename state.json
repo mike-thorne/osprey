@@ -13,7 +13,8 @@
   },
   "arsenal:401915417": {
    "date": "2026-10-13T19:00Z",
-   "lineup": true
+   "lineup": true,
+   "start": true
   },
   "giants:401872988": {
    "close": true,
