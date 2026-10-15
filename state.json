@@ -31,15 +31,6 @@
    ],
    "start": true
   },
-  "knicks:401906508": {
-   "date": "2026-10-08T23:30Z",
-   "final": true,
-   "score": [
-    92,
-    94
-   ],
-   "start": true
-  },
   "knicks:401908944": {
    "date": "2026-10-13T23:00Z",
    "final": true,
@@ -51,6 +42,10 @@
   },
   "knicks:401908945": {
    "date": "2026-10-15T23:30Z",
+   "score": [
+    0,
+    0
+   ],
    "start": true
   },
   "knicks:401914124": {
