@@ -41,10 +41,11 @@
    "start": true
   },
   "knicks:401908945": {
+   "close": true,
    "date": "2026-10-15T23:30Z",
    "score": [
-    100,
-    95
+    122,
+    120
    ],
    "start": true
   },
