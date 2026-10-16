@@ -43,6 +43,7 @@
   "knicks:401908945": {
    "close": true,
    "date": "2026-10-15T23:30Z",
+   "final": true,
    "score": [
     122,
     120
