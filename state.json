@@ -1,10 +1,11 @@
 {
  "events": {
   "arsenal:401878769": {
+   "close": true,
    "date": "2026-10-18T15:30Z",
    "lineup": true,
    "score": [
-    0,
+    1,
     0
    ],
    "start": true
@@ -19,18 +20,12 @@
    ],
    "start": true
   },
-  "giants:401872988": {
-   "close": true,
-   "date": "2026-10-11T17:00Z",
-   "final": true,
-   "score": [
-    27,
-    27
-   ],
-   "start": true
-  },
   "giants:401873000": {
    "date": "2026-10-18T17:00Z",
+   "score": [
+    0,
+    0
+   ],
    "start": true
   },
   "knicks:401908944": {
