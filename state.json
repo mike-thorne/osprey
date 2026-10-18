@@ -3,6 +3,7 @@
   "arsenal:401878769": {
    "close": true,
    "date": "2026-10-18T15:30Z",
+   "final": true,
    "lineup": true,
    "score": [
     1,
@@ -23,7 +24,7 @@
   "giants:401873000": {
    "date": "2026-10-18T17:00Z",
    "score": [
-    0,
+    7,
     0
    ],
    "start": true
