@@ -2,20 +2,11 @@
  "events": {
   "arsenal:401879246": {
    "date": "2026-11-01T16:30Z",
+   "final": true,
    "lineup": true,
    "score": [
     1,
     0
-   ],
-   "start": true
-  },
-  "giants:401873016": {
-   "close": true,
-   "date": "2026-10-25T17:00Z",
-   "final": true,
-   "score": [
-    21,
-    14
    ],
    "start": true
   },
