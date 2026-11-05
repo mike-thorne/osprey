@@ -34,11 +34,20 @@
   },
   "knicks:401909926": {
    "date": "2026-11-05T00:30Z",
+   "final": true,
    "score": [
     106,
     64
    ]
   }
  },
- "held": []
+ "held": [
+  {
+   "channel": "knicks",
+   "click": "https://www.espn.com/nba/game/_/gameId/401909926/bulls-knicks",
+   "message": "Final",
+   "tag": "basketball",
+   "title": "Final: Knicks 135, Bulls 105"
+  }
+ ]
 }
