@@ -45,11 +45,20 @@
   },
   "knicks:401909940": {
    "date": "2026-11-08T01:00Z",
+   "final": true,
    "score": [
     39,
     42
    ]
   }
  },
- "held": []
+ "held": [
+  {
+   "channel": "knicks",
+   "click": "https://www.espn.com/nba/game/_/gameId/401909940/knicks-cavaliers",
+   "message": "Final",
+   "tag": "basketball",
+   "title": "Final: Knicks 109, Cavaliers 97"
+  }
+ ]
 }
