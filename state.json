@@ -9,22 +9,16 @@
     0
    ]
   },
-  "arsenal:401879246": {
-   "date": "2026-11-01T16:30Z",
-   "final": true,
-   "lineup": true,
-   "score": [
-    1,
-    0
-   ],
-   "start": true
-  },
   "arsenal:401915381": {
    "date": "2026-11-04T20:00Z",
    "final": true
   },
   "giants:401873044": {
-   "date": "2026-11-08T18:00Z"
+   "date": "2026-11-08T18:00Z",
+   "score": [
+    6,
+    8
+   ]
   },
   "knicks:401909910": {
    "date": "2026-11-03T00:30Z",
