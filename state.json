@@ -20,6 +20,9 @@
   "giants:401873052": {
    "date": "2026-11-13T01:15Z"
   },
+  "knicks:401909296": {
+   "date": "2026-11-14T00:00Z"
+  },
   "knicks:401909940": {
    "date": "2026-11-08T01:00Z",
    "final": true,
@@ -34,11 +37,20 @@
   },
   "knicks:401909967": {
    "date": "2026-11-12T00:00Z",
+   "final": true,
    "score": [
     16,
     25
    ]
   }
  },
- "held": []
+ "held": [
+  {
+   "channel": "knicks",
+   "click": "https://www.espn.com/nba/game/_/gameId/401909967/cavaliers-knicks",
+   "message": "Final",
+   "tag": "basketball",
+   "title": "Final: Knicks 107, Cavaliers 115"
+  }
+ ]
 }
