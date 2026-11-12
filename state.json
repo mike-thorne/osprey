@@ -44,13 +44,5 @@
    ]
   }
  },
- "held": [
-  {
-   "channel": "knicks",
-   "click": "https://www.espn.com/nba/game/_/gameId/401909967/cavaliers-knicks",
-   "message": "Final",
-   "tag": "basketball",
-   "title": "Final: Knicks 107, Cavaliers 115"
-  }
- ]
+ "held": []
 }
