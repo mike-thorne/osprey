@@ -19,6 +19,7 @@
   },
   "giants:401873052": {
    "date": "2026-11-13T01:15Z",
+   "final": true,
    "score": [
     7,
     10
@@ -48,5 +49,13 @@
    ]
   }
  },
- "held": []
+ "held": [
+  {
+   "channel": "giants",
+   "click": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants",
+   "message": "Final",
+   "tag": "football",
+   "title": "Final: Giants 21, Commanders 24"
+  }
+ ]
 }
