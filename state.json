@@ -49,13 +49,5 @@
    ]
   }
  },
- "held": [
-  {
-   "channel": "giants",
-   "click": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants",
-   "message": "Final",
-   "tag": "football",
-   "title": "Final: Giants 21, Commanders 24"
-  }
- ]
+ "held": []
 }
