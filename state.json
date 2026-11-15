@@ -1,13 +1,5 @@
 {
  "events": {
-  "giants:401873044": {
-   "date": "2026-11-08T18:00Z",
-   "final": true,
-   "score": [
-    6,
-    8
-   ]
-  },
   "giants:401873052": {
    "date": "2026-11-13T01:15Z",
    "final": true,
