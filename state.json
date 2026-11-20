@@ -1,5 +1,8 @@
 {
  "events": {
+  "arsenal:401879232": {
+   "date": "2026-11-21T17:30Z"
+  },
   "knicks:401909296": {
    "date": "2026-11-14T00:00Z",
    "final": true
@@ -23,15 +26,10 @@
   "knicks:401910021": {
    "date": "2026-11-20T01:00Z",
    "final": true
+  },
+  "knicks:401910024": {
+   "date": "2026-11-22T00:30Z"
   }
  },
- "held": [
-  {
-   "channel": "knicks",
-   "click": "https://www.espn.com/nba/game/_/gameId/401910021/knicks-timberwolves",
-   "message": "Final",
-   "tag": "basketball",
-   "title": "Final: Knicks 102, Timberwolves 99"
-  }
- ]
+ "held": []
 }
