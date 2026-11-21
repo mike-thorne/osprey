@@ -2,6 +2,7 @@
  "events": {
   "arsenal:401879232": {
    "date": "2026-11-21T17:30Z",
+   "final": true,
    "lineup": true,
    "score": [
     0,
