@@ -34,6 +34,7 @@
   },
   "knicks:401910024": {
    "date": "2026-11-22T00:30Z",
+   "final": true,
    "score": [
     89,
     79
@@ -43,5 +44,13 @@
    "date": "2026-11-23T01:00Z"
   }
  },
- "held": []
+ "held": [
+  {
+   "channel": "knicks",
+   "click": "https://www.espn.com/nba/game/_/gameId/401910024/trail-blazers-knicks",
+   "message": "Final",
+   "tag": "basketball",
+   "title": "Final: Knicks 97, Trail Blazers 96"
+  }
+ ]
 }
