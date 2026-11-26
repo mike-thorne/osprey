@@ -27,7 +27,8 @@
    ]
   },
   "knicks:401909319": {
-   "date": "2026-11-26T00:30Z"
+   "date": "2026-11-26T00:30Z",
+   "final": true
   },
   "knicks:401910021": {
    "date": "2026-11-20T01:00Z",
@@ -50,5 +51,13 @@
    ]
   }
  },
- "held": []
+ "held": [
+  {
+   "channel": "knicks",
+   "click": "https://www.espn.com/nba/game/_/gameId/401909319/cavaliers-knicks",
+   "message": "Final",
+   "tag": "basketball",
+   "title": "Final: Knicks 121, Cavaliers 102"
+  }
+ ]
 }
